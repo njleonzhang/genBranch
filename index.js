@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const inquirer = require("inquirer");
 let shell = require("shelljs");
 const { createFileCache, TYPE_JSON } = require('./FileCache');
