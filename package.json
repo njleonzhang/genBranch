@@ -1,0 +1,19 @@
+{
+  "name": "genbranch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "greet": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^8.1.1",
+    "node-cache-in-file": "^0.0.5",
+    "shelljs": "^0.8.4"
+  }
+}
